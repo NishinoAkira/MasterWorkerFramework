@@ -1,6 +1,6 @@
 package test;
 
-import com.nec.masterSlave.TaskExecutor;
+import masterworker.TaskExecutor;
 
 public class TaskExecutorTest extends TaskExecutor{
 	

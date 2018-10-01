@@ -1,7 +1,7 @@
 package test;
 
-import com.nec.masterSlave.TaskExecutor;
-import com.nec.masterSlave.TaskExecutorFactory;
+import masterworker.TaskExecutor;
+import masterworker.TaskExecutorFactory;
 
 public class TaskExecutorFactoryTest extends TaskExecutorFactory{
 

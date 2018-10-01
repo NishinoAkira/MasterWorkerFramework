@@ -3,7 +3,7 @@ package test;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.nec.masterSlave.Master;
+import masterworker.Master;
 
 public class MasterTest {
 	
